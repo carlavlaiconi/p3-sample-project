@@ -14,6 +14,7 @@ public class Application {
 
     public void run(){
         System.out.println("It worked!");
+        System.out.println("It works thanks razvan");
 
     }
 }
